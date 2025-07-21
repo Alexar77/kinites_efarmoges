@@ -4,7 +4,7 @@
             "outputFile": "com.example.pharmareminder.app-mergeDebugResources-37:/values-pt/values-pt.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Alexa\\.gradle\\caches\\9.0-milestone-1\\transforms\\84c029f246b47d610d76fdee652bbe06\\transformed\\core-1.13.0\\res\\values-pt\\values-pt.xml",
+                    "source": "C:\\Users\\Alexa\\.gradle\\caches\\transforms-4\\0c3aa41b0b43deab791769373b3b3e31\\transformed\\core-1.13.0\\res\\values-pt\\values-pt.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Alexa\\.gradle\\caches\\9.0-milestone-1\\transforms\\3448343347b4d68743cd1232cc4a91e2\\transformed\\appcompat-1.7.0\\res\\values-pt\\values-pt.xml",
+                    "source": "C:\\Users\\Alexa\\.gradle\\caches\\transforms-4\\434c687a2d7b09d110732115639ce324\\transformed\\appcompat-1.7.0\\res\\values-pt\\values-pt.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

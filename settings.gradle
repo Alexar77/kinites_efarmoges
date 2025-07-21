@@ -1,1 +1,9 @@
-include ':app'
+pluginManagement {
+    repositories {
+        google()          // ←-- THIS is what was missing
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+rootProject.name = "PharmaReminder"
+include(":app")

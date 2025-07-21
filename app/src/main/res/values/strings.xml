@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PharmaReminder</string>
+    <string-array name="time_terms">
+        <item>before-breakfast</item>
+        <item>at-breakfast</item>
+        <item>after-breakfast</item>
+        <item>before-lunch</item>
+        <item>at-lunch</item>
+        <item>after-lunch</item>
+        <item>before-dinner</item>
+        <item>at-dinner</item>
+        <item>after-dinner</item>
+    </string-array>
+</resources>

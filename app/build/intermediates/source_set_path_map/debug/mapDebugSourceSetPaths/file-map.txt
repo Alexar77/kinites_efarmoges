@@ -1,0 +1,42 @@
+com.example.pharmareminder.app-profileinstaller-1.3.1-0 C:\Users\Alexa\.gradle\caches\9.0-milestone-1\transforms\0202528abff3b62480f027751d60538e\transformed\profileinstaller-1.3.1\res
+com.example.pharmareminder.app-lifecycle-process-2.8.1-1 C:\Users\Alexa\.gradle\caches\9.0-milestone-1\transforms\0885b4632f448ca77228f79c7ebf3bd5\transformed\lifecycle-process-2.8.1\res
+com.example.pharmareminder.app-activity-1.8.0-2 C:\Users\Alexa\.gradle\caches\9.0-milestone-1\transforms\0b60d45eeee54cf2805b4e9939dadf8a\transformed\activity-1.8.0\res
+com.example.pharmareminder.app-constraintlayout-2.1.4-3 C:\Users\Alexa\.gradle\caches\9.0-milestone-1\transforms\10d89d651ac8633a1c5bcc2dcaf5b91c\transformed\constraintlayout-2.1.4\res
+com.example.pharmareminder.app-emoji2-views-helper-1.3.0-4 C:\Users\Alexa\.gradle\caches\9.0-milestone-1\transforms\12f6bcc8691125dee1bd2072339a8717\transformed\emoji2-views-helper-1.3.0\res
+com.example.pharmareminder.app-room-runtime-2.6.1-5 C:\Users\Alexa\.gradle\caches\9.0-milestone-1\transforms\21bd6bb8c5659cf782191a0864bb34dc\transformed\room-runtime-2.6.1\res
+com.example.pharmareminder.app-transition-1.5.0-6 C:\Users\Alexa\.gradle\caches\9.0-milestone-1\transforms\244a76bedc3de211df16a7659c84a881\transformed\transition-1.5.0\res
+com.example.pharmareminder.app-lifecycle-viewmodel-savedstate-2.8.1-7 C:\Users\Alexa\.gradle\caches\9.0-milestone-1\transforms\28418da75d8f9304345f3963c7f98e3e\transformed\lifecycle-viewmodel-savedstate-2.8.1\res
+com.example.pharmareminder.app-lifecycle-livedata-2.8.1-8 C:\Users\Alexa\.gradle\caches\9.0-milestone-1\transforms\2eb5fe7ee6b3d2d4387aed7c1085bff2\transformed\lifecycle-livedata-2.8.1\res
+com.example.pharmareminder.app-appcompat-1.7.0-9 C:\Users\Alexa\.gradle\caches\9.0-milestone-1\transforms\3448343347b4d68743cd1232cc4a91e2\transformed\appcompat-1.7.0\res
+com.example.pharmareminder.app-lifecycle-runtime-release-10 C:\Users\Alexa\.gradle\caches\9.0-milestone-1\transforms\3becc93da77a34036f6f717d8ae11a7e\transformed\lifecycle-runtime-release\res
+com.example.pharmareminder.app-cardview-1.0.0-11 C:\Users\Alexa\.gradle\caches\9.0-milestone-1\transforms\42a0cb39b23171ca7b2b2b4166185851\transformed\cardview-1.0.0\res
+com.example.pharmareminder.app-work-runtime-2.9.0-12 C:\Users\Alexa\.gradle\caches\9.0-milestone-1\transforms\453cc416ef41b241cc7dda8ce4aed937\transformed\work-runtime-2.9.0\res
+com.example.pharmareminder.app-savedstate-1.2.1-13 C:\Users\Alexa\.gradle\caches\9.0-milestone-1\transforms\53db86b20e40a6807762992f0e7cfbcb\transformed\savedstate-1.2.1\res
+com.example.pharmareminder.app-core-ktx-1.13.0-14 C:\Users\Alexa\.gradle\caches\9.0-milestone-1\transforms\56af48a5135985a9ae203b89ebdb9970\transformed\core-ktx-1.13.0\res
+com.example.pharmareminder.app-recyclerview-1.4.0-15 C:\Users\Alexa\.gradle\caches\9.0-milestone-1\transforms\56c5c856cd74b19b78876412902256eb\transformed\recyclerview-1.4.0\res
+com.example.pharmareminder.app-coordinatorlayout-1.1.0-16 C:\Users\Alexa\.gradle\caches\9.0-milestone-1\transforms\5844d11df46468e7300de7a8696ed62c\transformed\coordinatorlayout-1.1.0\res
+com.example.pharmareminder.app-sqlite-framework-2.4.0-17 C:\Users\Alexa\.gradle\caches\9.0-milestone-1\transforms\5ac5457b3fcc74564c9c5e59ab47bba3\transformed\sqlite-framework-2.4.0\res
+com.example.pharmareminder.app-material-1.12.0-18 C:\Users\Alexa\.gradle\caches\9.0-milestone-1\transforms\5c9e39e62b09bb04be46e529dafc2265\transformed\material-1.12.0\res
+com.example.pharmareminder.app-annotation-experimental-1.4.0-19 C:\Users\Alexa\.gradle\caches\9.0-milestone-1\transforms\5fc75d4d1d8f5136a96b2d2c2897f87b\transformed\annotation-experimental-1.4.0\res
+com.example.pharmareminder.app-viewpager2-1.1.0-beta02-20 C:\Users\Alexa\.gradle\caches\9.0-milestone-1\transforms\763c1a12bf72f177a803c3d97b828655\transformed\viewpager2-1.1.0-beta02\res
+com.example.pharmareminder.app-startup-runtime-1.1.1-21 C:\Users\Alexa\.gradle\caches\9.0-milestone-1\transforms\77c3d2cbb377ae4b0ae38bdc2026cd90\transformed\startup-runtime-1.1.1\res
+com.example.pharmareminder.app-drawerlayout-1.1.1-22 C:\Users\Alexa\.gradle\caches\9.0-milestone-1\transforms\79f03d21f16fce2bd22592e272cbbcf8\transformed\drawerlayout-1.1.1\res
+com.example.pharmareminder.app-core-1.13.0-23 C:\Users\Alexa\.gradle\caches\9.0-milestone-1\transforms\84c029f246b47d610d76fdee652bbe06\transformed\core-1.13.0\res
+com.example.pharmareminder.app-core-runtime-2.2.0-24 C:\Users\Alexa\.gradle\caches\9.0-milestone-1\transforms\8526dae5008ba88fc0054a66aaf7fa57\transformed\core-runtime-2.2.0\res
+com.example.pharmareminder.app-fragment-1.5.4-25 C:\Users\Alexa\.gradle\caches\9.0-milestone-1\transforms\87df2f918b16717dd1daa4d278482625\transformed\fragment-1.5.4\res
+com.example.pharmareminder.app-customview-poolingcontainer-1.0.0-26 C:\Users\Alexa\.gradle\caches\9.0-milestone-1\transforms\975d44ab216d139631d0fe4d8f7e7fba\transformed\customview-poolingcontainer-1.0.0\res
+com.example.pharmareminder.app-lifecycle-viewmodel-release-27 C:\Users\Alexa\.gradle\caches\9.0-milestone-1\transforms\a072289216c16047ec03c427e5d1c7c3\transformed\lifecycle-viewmodel-release\res
+com.example.pharmareminder.app-lifecycle-livedata-core-2.8.1-28 C:\Users\Alexa\.gradle\caches\9.0-milestone-1\transforms\aa79476a3ad2cea00074b4a36e4c8cc3\transformed\lifecycle-livedata-core-2.8.1\res
+com.example.pharmareminder.app-room-ktx-2.6.1-29 C:\Users\Alexa\.gradle\caches\9.0-milestone-1\transforms\b1661524c78fb151bb63e1e537594e31\transformed\room-ktx-2.6.1\res
+com.example.pharmareminder.app-sqlite-2.4.0-30 C:\Users\Alexa\.gradle\caches\9.0-milestone-1\transforms\ba395257ac8c5bbeb1cc2a6e9cabf603\transformed\sqlite-2.4.0\res
+com.example.pharmareminder.app-appcompat-resources-1.7.0-31 C:\Users\Alexa\.gradle\caches\9.0-milestone-1\transforms\bf5e0115a76cbc073b3cd274facf8ad6\transformed\appcompat-resources-1.7.0\res
+com.example.pharmareminder.app-lifecycle-livedata-core-ktx-2.8.1-32 C:\Users\Alexa\.gradle\caches\9.0-milestone-1\transforms\d15d15f2970fd0693604f94d0fb82a66\transformed\lifecycle-livedata-core-ktx-2.8.1\res
+com.example.pharmareminder.app-lifecycle-service-2.8.1-33 C:\Users\Alexa\.gradle\caches\9.0-milestone-1\transforms\f4df5e5fed430987c64e2cfbe9a0fdee\transformed\lifecycle-service-2.8.1\res
+com.example.pharmareminder.app-emoji2-1.3.0-34 C:\Users\Alexa\.gradle\caches\9.0-milestone-1\transforms\f629066ad5998d34890d873d0f9964a2\transformed\emoji2-1.3.0\res
+com.example.pharmareminder.app-pngs-35 C:\coding and uni\uni\kinites\app\build\generated\res\pngs\debug
+com.example.pharmareminder.app-resValues-36 C:\coding and uni\uni\kinites\app\build\generated\res\resValues\debug
+com.example.pharmareminder.app-packageDebugResources-37 C:\coding and uni\uni\kinites\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.pharmareminder.app-packageDebugResources-38 C:\coding and uni\uni\kinites\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.pharmareminder.app-debug-39 C:\coding and uni\uni\kinites\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.pharmareminder.app-debug-40 C:\coding and uni\uni\kinites\app\src\debug\res
+com.example.pharmareminder.app-main-41 C:\coding and uni\uni\kinites\app\src\main\res

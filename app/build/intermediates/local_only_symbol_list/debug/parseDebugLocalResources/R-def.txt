@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+array time_terms
+id btnMap
+id btnReceive
+id btnSave
+id etDesc
+id etDoctorLoc
+id etDoctorName
+id etEnd
+id etShortName
+id etStart
+id fabAdd
+id recyclerView
+id spinnerTerm
+id textActive
+id textDesc
+id textDoctor
+id textReceivedToday
+id textShortName
+id textTime
+id textTitle
+layout activity_add
+layout activity_detail
+layout activity_main
+layout item_prescription
+string app_name
+style Theme.Pharmareminder
